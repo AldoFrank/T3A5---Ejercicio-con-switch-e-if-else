@@ -6,10 +6,10 @@
 
 - El menú principal debe tener las siguientes opciones:
 
-  1.- Consultar saldo
-  2.- Consultar estado de cuenta
-  3.- Retirar efectivo
-  4.- Otras opciones
+  1.- Consultar saldo.
+  2.- Consultar estado de cuenta.
+  3.- Retirar efectivo.
+  4.- Otras opciones.
     Seguros
     Créditos
     Salir
