@@ -34,10 +34,11 @@
     |      |  + consultar Saldo             |    |
     |      |  + Consultar Estado de Cuenta  |    |
     |      |  + Retirar Efectivo            |    |
-    |      |  + Otras Opciones -------------|    |
-    |      |    - - Seguros                 |    |
+    |      |  + Otras Opciones -------------+    |
+    |      |    + - Seguros                 |    |
     |      |    | - Creditos                |    |
     |      |    | - Salir|                  |    |
+    |      |    +---------------------------+    |
     |      +--------------------------------+    |
     |                                            |
     +--------------------------------------------+
