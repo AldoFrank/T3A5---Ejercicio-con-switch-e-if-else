@@ -45,4 +45,5 @@
     
 ~~~
 
-![](
+# Etapa 4
+https://github.com/AldoFrank/T3A5---Ejercicio-con-switch-e-if-else/blob/main/T3A5.zip
